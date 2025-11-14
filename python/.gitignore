@@ -1,0 +1,6 @@
+.idea/
+.venv/Include
+.venv/Lib
+.venv/Scripts
+.venv/CACHEDIR.TAG
+.venv/pyvenv.cfg
